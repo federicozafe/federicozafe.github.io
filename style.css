@@ -13,7 +13,7 @@ body {
 .overlay {
   height: 100%;
   width: 100%;
-  background-color: rgba(0, 0, 0, 0); /* menos oscuro */
+  background-color: rgba(0, 0, 0, 0.1); /* menos oscuro */
   display: flex;
   flex-direction: column;
   justify-content: center;
