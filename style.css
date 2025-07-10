@@ -48,7 +48,7 @@ p {
   font-weight: bold;
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 8px;
   transition: background-color 0.2s;
 }
 .insta-btn:hover {
@@ -56,8 +56,8 @@ p {
 }
 
 .insta-icon {
-  width: 64px !important;
-  height: 64px !important;
+  width: 55px !important;
+  height: 55px !important;
   display: block;
   object-fit: contain;
   flex-shrink: 0;
