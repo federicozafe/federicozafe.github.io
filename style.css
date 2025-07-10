@@ -56,8 +56,8 @@ p {
 }
 
 .insta-icon {
-  width: 55px !important;
-  height: 55px !important;
+  width: 50px !important;
+  height: 50px !important;
   display: block;
   object-fit: contain;
   flex-shrink: 0;
